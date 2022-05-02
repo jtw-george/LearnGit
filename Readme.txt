@@ -8,3 +8,4 @@ Git is free software.
 1. 管理修改学习。
 2. git add 是将工作区的修改提交的暂存区。
 3. git commit 是将暂存区的文件提交到版本库。
+4. git diff HEAD -- <file_name> 工作区和版本库中最新版本之间的区别。
