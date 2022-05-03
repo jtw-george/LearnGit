@@ -12,3 +12,7 @@ Git is free software.
 
 2022.05.03
 1. git 管理/跟踪的是有效的改动，比如在这个目录下添加了别的文件，然后又删了，git 认为是没有改动的。
+2. 添加远程仓库：
+git remote add origin https://github.com/jtw-george/LearnGit.git
+git push -u origin master
+git push origin master
